@@ -1,5 +1,5 @@
 # us-citizen-data
-for ssd homework
+application for us citizen database
 
 # Setups
 

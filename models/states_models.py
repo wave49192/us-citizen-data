@@ -6,7 +6,7 @@ Base = declarative_base()
 
 class StatesModel(Base):
 
-    __tablename__ = "citizens"
+    __tablename__ = "states"
     id = Column(Integer, primary_key=True, nullable=False)
     state_name = Column(Text, nullable=False)
     abbreviation = Column(Text, nullable=False)

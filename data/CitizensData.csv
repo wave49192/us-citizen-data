@@ -1,4 +1,3 @@
-ID,FirstName,LastName,Gender,Job,Annual Salary($),StateID
 1,Maya,Lewis,Female,Fabricator,29176,43
 2,Brooklyn,Phillips,Female,Cook,34289,22
 3,Makena,Booth,Female,Bookkeeper,46730,43
@@ -149,4 +148,3 @@ ID,FirstName,LastName,Gender,Job,Annual Salary($),StateID
 148,Belinda,Bolton,Female,Laboratory Technician,29555,29
 149,Harmony,Saunders,Female,Chef Manager,27975,33
 150,Drew,Lindsay,Female,Loan Officer,46541,4
-

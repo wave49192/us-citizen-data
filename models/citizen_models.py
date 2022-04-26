@@ -4,7 +4,7 @@ from sqlalchemy.orm import declarative_base
 Base = declarative_base()
 
 
-class UserModel(Base):
+class CitizenModel(Base):
     __tablename__ = "citizens"
 
     id = Column(Integer, primary_key=True, nullable=False)

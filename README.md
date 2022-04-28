@@ -1,5 +1,16 @@
 # us-citizen-data
-application for us citizen database
+application for us citizen database 
+
+Tables examples 
+citizen
+| id |firstname | lastname | gender | jobtitle | annual_salary | state_id |
+|----|--------|-----|-----|-----|-----|-----|
+| 1 | Nikolia |Lewis | Male | Fabricator | 29176 | 43 |
+
+states
+| id |state_name | abbreviation |
+|----|--------|-----|
+| 1 | Alabama |AL|
 
 # Setups
 

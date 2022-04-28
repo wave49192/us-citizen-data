@@ -18,9 +18,11 @@ class CitizenDao:
     def get_citizen_by_lastname(self, lastname):
         return self.__session.query(CitizenModel).filter(CitizenModel.lastname == lastname).all()
 
-    def get_citizen_by_salary_range(self, first, second):
-        return self.__session.query(CitizenModel).filter(CitizenModel.annual_salary >= first and
-                                                         CitizenModel.annual_salary <= second).all()
+    def get_citizen_by_salary_more_than(self, value):
+        return self.__session.query(CitizenModel).filter(CitizenModel.annual_salary >= value).all()
+
+    def get_citizen_by_salary_less_than(self, value):
+        return self.__session.query(CitizenModel).filter(CitizenModel.annual_salary <= value).all()
 
     def get_citizen_by_gender(self, gender):
         return self.__session.query(CitizenModel).filter(CitizenModel.gender == gender).all()

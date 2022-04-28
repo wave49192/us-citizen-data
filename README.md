@@ -28,3 +28,6 @@ sqlite> .mode csv
 sqlite> .import data/CitizensData.csv citizens
 sqlite> .import data/StatesData.csv states
 ```
+# Documents
+
+[UML Class Diagram](https://github.com/wave49192/us-citizen-data/wiki/UML-Class-Diagram)

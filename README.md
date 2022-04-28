@@ -5,7 +5,7 @@ application for us citizen database
 
 1.Create sample.db
 ```
-sqlite3 sample.db < citizen.schema
+sqlite3 sample.db --init citizen.schema
 ```
 2.Open sample.db
 ```

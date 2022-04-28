@@ -1,7 +1,7 @@
 # us-citizen-data
 application for us citizen database 
 
-Tables examples 
+Tables examples  
 citizen
 | id |firstname | lastname | gender | jobtitle | annual_salary | state_id |
 |----|--------|-----|-----|-----|-----|-----|

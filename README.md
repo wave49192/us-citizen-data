@@ -5,7 +5,7 @@ Tables examples
 citizen
 | id |firstname | lastname | gender | jobtitle | annual_salary | state_id |
 |----|--------|-----|-----|-----|-----|-----|
-| 1 | Nikolia |Lewis | Male | Fabricator | 29176 | 43 |
+| 1 | Nikolia |Lewis | Male | Fabricator | 29176 | 43 |Cancel changes
 
 states
 | id |state_name | abbreviation |
@@ -31,6 +31,6 @@ sqlite> .import data/StatesData.csv states
 # Documents
 
 [UML Class Diagram](https://github.com/wave49192/us-citizen-data/wiki/UML-Class-Diagram)  
-[Domain Model](https://github.com/wave49192/us-citizen-data/wiki/Domain-Model)
-[Package Diagram](https://github.com/wave49192/us-citizen-data/wiki/Package-Diagram)
+[Domain Model](https://github.com/wave49192/us-citizen-data/wiki/Domain-Model)  
+[Package Diagram](https://github.com/wave49192/us-citizen-data/wiki/Package-Diagram)  
 [Web Services](https://github.com/wave49192/us-citizen-data/wiki/Web-Services)

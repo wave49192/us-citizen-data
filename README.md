@@ -30,5 +30,5 @@ sqlite> .import data/StatesData.csv states
 ```
 # Documents
 
-[UML Class Diagram](https://github.com/wave49192/us-citizen-data/wiki/UML-Class-Diagram)
+[UML Class Diagram](https://github.com/wave49192/us-citizen-data/wiki/UML-Class-Diagram)  
 [Web Services](https://github.com/wave49192/us-citizen-data/wiki/Web-Services)

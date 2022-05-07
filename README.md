@@ -32,5 +32,5 @@ sqlite> .import data/StatesData.csv states
 
 [UML Class Diagram](https://github.com/wave49192/us-citizen-data/wiki/UML-Class-Diagram)  
 [Domain Model](https://github.com/wave49192/us-citizen-data/wiki/Domain-Model)
-[Package Diagram]https://github.com/wave49192/us-citizen-data/wiki/Package-Diagram()
+[Package Diagram](https://github.com/wave49192/us-citizen-data/wiki/Package-Diagram)
 [Web Services](https://github.com/wave49192/us-citizen-data/wiki/Web-Services)
